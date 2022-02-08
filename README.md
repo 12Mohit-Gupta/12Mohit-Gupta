@@ -1,3 +1,9 @@
+Hi I am Mohit Gputa,👏
+
+A Full-stack web developer from India
+
+
+
 - 👋 Hi, I’m Mohit-Gupta
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
