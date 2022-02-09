@@ -12,6 +12,13 @@ A dedicated Full Stack Web developer with a specialized skill set that enables m
 Languages and Tools:
 
 ![image](https://user-images.githubusercontent.com/87434625/153200429-33996c3d-2dcb-4d03-980f-caa66a97641d.png)
+![image](https://user-images.githubusercontent.com/87434625/153200709-abc6165e-7589-425d-a94e-545b74530edd.png)
+![image](https://user-images.githubusercontent.com/87434625/153200737-50f90292-af64-4173-b27d-868c151388f5.png)
+![image](https://user-images.githubusercontent.com/87434625/153200752-7ea93de9-1051-40f2-8bf3-59838f7f727e.png)
+![image](https://user-images.githubusercontent.com/87434625/153200801-d2a01057-c85a-4dd4-862c-de3b0b5f14f1.png)
+![image](https://user-images.githubusercontent.com/87434625/153200840-4c9b1349-02f9-4629-af96-be1a1de3f9c9.png)
+
+
 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
