@@ -10,7 +10,9 @@ A dedicated Full Stack Web developer with a specialized skill set that enables m
 
 
 
-
+Connect with me:
+https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif
+https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgMjBdYkKTYyYuJ2k%2BxJtCg%3D%3D
 
 
 - 👋 Hi, I’m Mohit-Gupta
