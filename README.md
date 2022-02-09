@@ -8,8 +8,7 @@ A dedicated Full Stack Web developer with a specialized skill set that enables m
 
 ![image](https://user-images.githubusercontent.com/87434625/153193615-25457331-7ad9-4ca3-ad04-3136d1c1a845.png)
 
-Connect with me:
-![image](https://user-images.githubusercontent.com/87434625/153194021-c7f9d797-490d-4f38-96c9-30b53e76a753.png)
+
 
 
 
