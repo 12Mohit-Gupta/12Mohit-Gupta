@@ -19,7 +19,7 @@ Languages and Tools:
 
 ![image](https://user-images.githubusercontent.com/87434625/153195948-a7020430-24a1-42fd-9c52-5e9699a7b7c0.png)
 ![image](https://user-images.githubusercontent.com/87434625/153195965-77d9d1ee-178c-40df-b5d0-adbd86e0960e.png)
-![image](https://user-images.githubusercontent.com/87434625/153196139-78565576-3945-4a5a-94d0-48e4599988ae.png)
+![photjava](https://user-images.githubusercontent.com/87434625/153196568-f372350f-711c-4ad3-b14f-68fe9d81204b.png)
 ![image](https://user-images.githubusercontent.com/87434625/153196182-d5286cf7-b8a2-4d07-a770-cbbf41c85f66.png)
 ![image](https://user-images.githubusercontent.com/87434625/153196208-f3a22c54-0030-4bc8-abfe-fcf3737ced0d.png)
 ![image](https://user-images.githubusercontent.com/87434625/153196234-e19501f5-a5ff-472a-a36c-a5d4de07cad2.png)
