@@ -11,8 +11,9 @@ A dedicated Full Stack Web developer with a specialized skill set that enables m
 
 
 Connect with me:
+
 ![image](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif)
-![image](https://www.linkedin.com/in/mohit-gupta-5b22a0118/)
+![image](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGD0dIhHjRH%2B4nP6mna2dug%3D%3D)
 
 Languages and Tools:
 
