@@ -9,12 +9,6 @@ A dedicated Full Stack Web developer with a specialized skill set that enables m
 ![image](https://user-images.githubusercontent.com/87434625/153193615-25457331-7ad9-4ca3-ad04-3136d1c1a845.png)
 
 
-
-Connect with me:
-
-![image](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif)
-![image](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGD0dIhHjRH%2B4nP6mna2dug%3D%3D)
-
 Languages and Tools:
 
 ![image](https://user-images.githubusercontent.com/87434625/153200429-33996c3d-2dcb-4d03-980f-caa66a97641d.png)
