@@ -1,19 +1,21 @@
 Hi I am Mohit Gputa,👏
-
+<hr>
 <h3 align="center">A Full-stack web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
 <br/>
-
 <p text-align="center"> A dedicated Full Stack Web developer with a specialized skill set
     that enables me to build robust web applications. I am adept in
     both front-end and back-end and have an eye for performance and
     accuracy.
 </p>
-<br/>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
 
-</br>
-<hr>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300" />
+
+
+<br>
+
 
 🌱 I’m currently learning **React
 - 💬 Talk to me about startups, memes, movies & web-series.
