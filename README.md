@@ -8,13 +8,13 @@ Hi I am Mohit Gputa,👏
     both front-end and back-end and have an eye for performance and
     accuracy.
 </p>
-<br>
+<br/>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-<br>
+<br/>
 
 
 🌱 I’m currently learning **React
@@ -45,4 +45,6 @@ Hi I am Mohit Gputa,👏
 </p></span>
 <br/>
 <br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12Mohit-Gupta&show_icons=true&locale=en" alt="Mohit" /></p>
   
