@@ -11,18 +11,23 @@ Hi I am Mohit Gputa,👏
 </p>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<hr>
-<br>
+
+
+
+
+
+
 🌱 I’m currently learning **React
 - 💬 Talk to me about startups, memes, movies & web-series.
 - 📫 How to reach me **mg08312@gmail.com**
 - 📫 Reach me out **mg08312@gmail.com**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
 <p align="left">
-
+<br/>
   <a href="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" height="30" width="40" /></a>
 </p>
 <br/>
