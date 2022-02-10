@@ -41,10 +41,3 @@ Hi I am Mohit Gputa,👏
 <br/>
 <br/>
   
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=12Mohit-Gupta &show_icons=true&locale=en&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="12Mohit-Gupta" /></p>
-
-
-<!---
-12Mohit-Gupta/12Mohit-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
