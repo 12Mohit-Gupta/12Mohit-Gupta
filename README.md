@@ -1,4 +1,4 @@
-<h2 text-align="center">Hi I am Mohit Gputa,👏</h2>
+<h2 align="center">Hi I am Mohit Gputa,👏</h2>
 <hr>
 <h3 align="center">A Full-stack web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
