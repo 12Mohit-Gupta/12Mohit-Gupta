@@ -41,7 +41,7 @@ Hi I am Mohit Gputa,👏
 <br/>
 <br/>
   
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=12Mohit-Gupta &show_icons=true&locale=en&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="12Mohit-Gupta" /></p>
 
 
 <!---
