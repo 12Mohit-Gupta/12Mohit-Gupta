@@ -1,4 +1,4 @@
-Hi I am Mohit Gputa,👏
+<b>Hi I am Mohit Gputa,👏<b>
 <hr>
 <h3 align="center">A Full-stack web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
