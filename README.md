@@ -11,13 +11,12 @@ Hi I am Mohit Gputa,👏
 </p>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<hr>
 🌱 I’m currently learning **React
 - 💬 Talk to me about startups, memes, movies & web-series.
 - 📫 How to reach me **mg08312@gmail.com**
 - 📫 Reach me out **mg08312@gmail.com**
 
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
