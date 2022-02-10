@@ -1,28 +1,48 @@
 Hi I am Mohit Gputa,👏
 
-A Full-stack web developer from India
+<h3 align="center">A Full-stack web developer from India</h3>
+<h3 align="center">" Code Never Lies "</h3>
+<br/>
 
+<p text-align="center"> A dedicated Full Stack Web developer with a specialized skill set
+    that enables me to build robust web applications. I am adept in
+    both front-end and back-end and have an eye for performance and
+    accuracy.
+</p>
+<br/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-A dedicated Full Stack Web developer with a specialized skill set that enables me to build robust web applications. I am adept in both front-end and back-end and have an eye for performance and accuracy
+🌱 I’m currently learning **React
+- 💬 Talk to me about startups, memes, movies & web-series.
+- 📫 How to reach me **mg08312@gmail.com**
+- 📫 Reach me out **mg08312@gmail.com**
+
 <hr>
 
+<h3 align="left">Connect with me:</h3>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
+<p align="left">
 
-![image](https://user-images.githubusercontent.com/87434625/153193615-25457331-7ad9-4ca3-ad04-3136d1c1a845.png)
+  <a href="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" height="30" width="40" /></a>
+</p>
+<br/>
+<br/>
+<span><h3 align="left">Languages and Tools:</h3><p align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+</p></span>
+<br/>
+<br/>
+  
 
 
-Languages and Tools:
-
-![image](https://user-images.githubusercontent.com/87434625/153200429-33996c3d-2dcb-4d03-980f-caa66a97641d.png)
-![image](https://user-images.githubusercontent.com/87434625/153200709-abc6165e-7589-425d-a94e-545b74530edd.png)
-![image](https://user-images.githubusercontent.com/87434625/153200948-21dc9680-e25f-4e28-baca-96bbeead63dd.png)
-![image](https://user-images.githubusercontent.com/87434625/153200737-50f90292-af64-4173-b27d-868c151388f5.png)
-![image](https://user-images.githubusercontent.com/87434625/153200752-7ea93de9-1051-40f2-8bf3-59838f7f727e.png)
-![image](https://user-images.githubusercontent.com/87434625/153200801-d2a01057-c85a-4dd4-862c-de3b0b5f14f1.png)
-![image](https://user-images.githubusercontent.com/87434625/153200840-4c9b1349-02f9-4629-af96-be1a1de3f9c9.png)
-
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mg08312@gmail.com
 
 <!---
 12Mohit-Gupta/12Mohit-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
