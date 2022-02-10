@@ -14,15 +14,36 @@ Hi I am Mohit Gputa,👏
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-
+🌱 I’m currently learning **React
+- 💬 Talk to me about startups, memes, movies & web-series.
+- 📫 How to reach me **mg08312@gmail.com**
+- 📫 Reach me out **mg08312@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
