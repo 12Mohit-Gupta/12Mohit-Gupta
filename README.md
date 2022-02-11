@@ -44,14 +44,11 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
 <p align="left">
  <a href="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" height="30" width="40" /></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30 align="center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="30 align="center>
 </p>
 <br>
 <br>
 <br>
-<br>                                                                                                            
-<br>
-<br>   
 <hr>
 <span><h3 align="left">Languages and Tools:</h3><p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
