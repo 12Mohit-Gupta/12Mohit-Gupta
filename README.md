@@ -42,7 +42,7 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
 <p align="left">
  <a href="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-gupta-5b22a0118/" height="30" width="40" /></a>
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.howtogeek.com%2F408102%2Fhow-to-insert-hyperlinks-in-images-in-gmail%2F&psig=AOvVaw1vsdeLnfNZj165D6mpUIz9&ust=1644687801356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCV9tOZ-PUCFQAAAAAdAAAAABAD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.howtogeek.com%2F408102%2Fhow-to-insert-hyperlinks-in-images-in-gmail%2F&psig=AOvVaw1vsdeLnfNZj165D6mpUIz9&ust=1644687801356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCV9tOZ-PUCFQAAAAAdAAAAABAD/" height="30" width="40" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30>
 </p>
 <br/>
 <br/>
