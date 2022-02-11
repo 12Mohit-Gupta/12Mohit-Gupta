@@ -46,6 +46,9 @@
 </p>
 <br/>
 <br/>
+<br/>
+<br/>                                                                                                            
+                                                                                                            
 <span><h3 align="left">Languages and Tools:</h3><p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
