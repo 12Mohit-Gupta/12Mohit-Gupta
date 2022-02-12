@@ -1,4 +1,4 @@
-<h2 align="center">Hi I am Mohit Gputa,👏</h2>
+<h2 align="center">Hi I am Mohit Gupta,👏</h2>
 <hr>
 <h3 align="center">A Full-stack web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
@@ -36,7 +36,7 @@
 <br>
 
 🌱 I’m currently learning **React
-- 💬 Talk to me about startups, memes, movies & web-series.
+- 💬 Talk to me about startups.
  <br>
  <br>
  <br>
@@ -61,5 +61,5 @@
 <br/>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12Mohit-Gupta&show_icons=true&locale=en" alt="Mohit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitGupta10&show_icons=true&locale=en" alt="MohitGupta10" /></p>
   
