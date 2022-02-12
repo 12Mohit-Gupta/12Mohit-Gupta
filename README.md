@@ -27,13 +27,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 🌱 I’m currently learning **React
 - 💬 Talk to me about startups.
