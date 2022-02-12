@@ -1,5 +1,5 @@
 <h2 align="center">Hi I am Mohit Gupta,👏</h2>
-<hr>
+<br/>
 <h3 align="center">A Full-stack web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
 <br/>
